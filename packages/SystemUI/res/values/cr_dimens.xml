@@ -28,6 +28,9 @@
     <!-- HD calling icon -->
     <dimen name="signal_icon_viewport_size">24dp</dimen>
 
+    <!-- QQS Bottom Padding -->
+     <dimen name="qqs_layout_padding_bottom">16dp</dimen>
+
     <!-- QQS Brightness slider -->
     <dimen name="qqs_top_brightness_margin_top">4dp</dimen>
     <dimen name="qqs_top_brightness_margin_bottom">8dp</dimen>
@@ -45,7 +48,7 @@
     <dimen name="qs_header_image_fade_size">80dp</dimen>
 
     <!-- Clear all notifications button -->
-    <dimen name="dismiss_all_button_elevation">10dp</dimen>
+    <dimen name="dismiss_all_button_elevation">0dp</dimen>
     <dimen name="dismiss_all_button_height">55dp</dimen>
     <dimen name="dismiss_all_button_width">55dp</dimen>
     <dimen name="dismiss_all_button_margin_bottom">48dp</dimen>
