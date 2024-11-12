@@ -35,7 +35,7 @@
     <dimen name="qqs_bottom_brightness_margin_bottom">4dp</dimen>
 	
 	<!-- QQS Paddings -->
-    <dimen name="qqs_layout_padding_ bottom">19dp</dimen>
+    <dimen name="qqs_layout_padding_bottom">19dp</dimen>
 
     <!-- QS Brightness slider -->
     <dimen name="qs_top_brightness_margin_top">4dp</dimen>
